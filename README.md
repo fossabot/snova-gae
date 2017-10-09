@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fsnova-gae.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fsnova-gae?ref=badge_shield)
+
 本项目是[Snova](http://code.google.com/p/snova/)的Google Appengine服务端的Java/Go实现， 可以部署到Google Appengine平台上。
 
 部署服务端
@@ -37,3 +39,6 @@
 其它
 -------
 参考[Snova](http://code.google.com/p/snova/)有一些其他相关信息
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2Fsnova-gae.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2Fsnova-gae?ref=badge_large)
